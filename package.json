@@ -1,0 +1,29 @@
+{
+  "name": "hacker-news-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel app/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlatif01/hacker-news-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlatif01/hacker-news-clone/issues"
+  },
+  "homepage": "https://github.com/mlatif01/hacker-news-clone#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "@babel/preset-react": "^7.9.4",
+    "parcel-bundler": "^1.12.4"
+  }
+}
